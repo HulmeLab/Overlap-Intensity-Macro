@@ -1,6 +1,0 @@
-INSTALLATION:
-
-Download the Overlap_Intensity.ijm file. Copy the ijm file directly to the ImageJ or FIJI Plugins folder.
-Once the file has been moved the macro will appear under the Plugins tab in ImageJ or FIJI.
-
-
